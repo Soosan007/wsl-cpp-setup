@@ -30,7 +30,7 @@ WSLを起動すると、以下の入力を求められます：
 Enter new UNIX username:
 ```
 
-👉 好きなユーザー名を入力（例：sota）
+👉 好きなユーザー名を入力（例：sosan）
 
 ```
 Enter new UNIX password:
